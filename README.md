@@ -20,9 +20,11 @@ Python · C++ · SQL · JavaScript · Django · FastAPI · Celery · Redis · Re
 
 ## GitHub Stats
 
-![Om Shiv Sharma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmaomshiv201&show_icons=true&theme=dark)
+![Followers](https://img.shields.io/github/followers/sharmaomshiv201?label=Followers&style=for-the-badge&color=blue)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaomshiv201&layout=compact&theme=dark)
+![Stringer stars](https://img.shields.io/github/stars/sharmaomshiv201/stringer?style=for-the-badge&label=Stringer%20Stars&color=yellow)
+
+![Top Language](https://img.shields.io/github/languages/top/sharmaomshiv201/stringer?style=for-the-badge&color=informational)
 
 ## Contact
 
