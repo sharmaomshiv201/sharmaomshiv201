@@ -12,19 +12,17 @@ Built an end-to-end Estimated Credit Loss (ECL) processing platform (Django, Cel
 
 **[Stringer](https://github.com/sharmaomshiv201/stringer)** — RAG-based news digest assistant (FastAPI, NumPy, SQLite). Hybrid semantic + keyword + recency retrieval, near-duplicate suppression, and a grounding gate that withholds an answer when there's no real source coverage.
 
-**AI-Powered Recruitment Platform** — End-to-end recruitment system using the Claude API to auto-generate job descriptions and score/screen candidate resumes. (Internal hackathon project, not open-sourced.)
-
 ## Stack
 
 Python · C++ · SQL · JavaScript · Django · FastAPI · Celery · Redis · ReactJS · Pandas · NumPy · MySQL · MongoDB · AWS · Docker · LangChain
 
 ## GitHub Stats
 
-![Followers](https://img.shields.io/github/followers/sharmaomshiv201?label=Followers&style=for-the-badge&color=blue)
+![Python](https://img.shields.io/badge/Python-44%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-33%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-22%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-1%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-![Stringer stars](https://img.shields.io/github/stars/sharmaomshiv201/stringer?style=for-the-badge&label=Stringer%20Stars&color=yellow)
-
-![Top Language](https://img.shields.io/github/languages/top/sharmaomshiv201/stringer?style=for-the-badge&color=informational)
 
 ## Contact
 
