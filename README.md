@@ -23,4 +23,4 @@ Python · C++ · SQL · JavaScript · Django · FastAPI · Celery · Redis · Re
 
 ## Contact
 
-📧 sharmaomshiv201@gmail.com · 🔗 [linkedin.com/in/om-shiv](https://linkedin.com/in/om-shiv)
+📧 omshiivv@gmail.com · 🔗 [linkedin.com/in/om-shiv](https://linkedin.com/in/om-shiv)
