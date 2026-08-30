@@ -12,13 +12,15 @@ Built an end-to-end Estimated Credit Loss (ECL) processing platform (Django, Cel
 
 **[Stringer](https://github.com/sharmaomshiv201/stringer)** — RAG-based news digest assistant (FastAPI, NumPy, SQLite). Hybrid semantic + keyword + recency retrieval, near-duplicate suppression, and a grounding gate that withholds an answer when there's no real source coverage.
 
+**[Portfolio](https://github.com/sharmaomshiv201/portfolio)** — Personal portfolio site (Next.js App Router, TypeScript, Tailwind CSS v4). Fully static and content-driven from a single config file, with an integrated contact form.
+
 ## Stack
 
 Python · C++ · SQL · JavaScript · Django · FastAPI · Celery · Redis · ReactJS · Pandas · NumPy · MySQL · MongoDB · AWS · Docker · LangChain
 
 ## GitHub Stats
 
-![Om Shiv Sharma's GitHub Stats](https://github-stats-extended.vercel.app/api?username=sharmaomshiv201&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&disable_animations=true)
+![Om Shiv Sharma's GitHub Stats](https://github-stats-extended.vercel.app/api?username=sharmaomshiv201&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&disable_animations=true&hide=stars,prs,issues,contribs&include_all_commits=true)
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=sharmaomshiv201&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&disable_animations=true)
 
 ## Contact
