@@ -12,7 +12,7 @@ Built an end-to-end Estimated Credit Loss (ECL) processing platform (Django, Cel
 
 **[Stringer](https://github.com/sharmaomshiv201/stringer)** — RAG-based news digest assistant (FastAPI, NumPy, SQLite). Hybrid semantic + keyword + recency retrieval, near-duplicate suppression, and a grounding gate that withholds an answer when there's no real source coverage.
 
-**[Portfolio](https://github.com/sharmaomshiv201/portfolio)** — Personal portfolio site (Next.js App Router, TypeScript, Tailwind CSS v4). Fully static and content-driven from a single config file, with an integrated contact form.
+**[Portfolio](https://portfolio-seven-eta-w2b1lh6ato.vercel.app/)** — Personal portfolio site (Next.js App Router, TypeScript, Tailwind CSS v4). Fully static and content-driven from a single config file, with an integrated contact form.
 
 ## Stack
 
