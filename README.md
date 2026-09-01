@@ -140,8 +140,8 @@ Django management commands and batch-processing utilities
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sharmaomshiv201/sharmaomshiv201/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sharmaomshiv201/sharmaomshiv201/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/sharmaomshiv201/sharmaomshiv201/output/github-contribution-grid-snake.svg" />
-</picture>picture>
-</div>div>
+</picture>
+</div>
 
 ---
 
@@ -167,4 +167,3 @@ Django management commands and batch-processing utilities
     <sub>⭐ <a href="https://github.com/sharmaomshiv201">sharmaomshiv201</a> · Building fintech infra that doesn't break</sub>
 
     </div>
-</picture>
